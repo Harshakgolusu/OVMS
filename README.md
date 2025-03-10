@@ -1,3 +1,26 @@
+Project Title: Online Voting Management System (Web3 dApp)
+Project Description:
+The Online Voting Management System is a decentralized web application (Web3 dApp) that enables users to securely vote online using blockchain technology. The system ensures transparency, immutability, and fairness by recording votes on a blockchain network.
+
+Before voting, users must record a video for identity verification, ensuring that only legitimate users cast votes. This enhances security and prevents unauthorized voting. The video is securely stored and linked to the voter's identity, adding an extra layer of verification.
+
+Developed using Solidity, HTML, CSS, and JavaScript, this system eliminates the risks of vote tampering and central authority control. The platform allows an admin (owner) to add candidates, and registered users can cast a single vote during the active voting period. Smart contracts manage the entire voting process, preventing multiple votes from the same user.
+
+Key Features:
+✅ Decentralized & Secure – Votes are recorded on a blockchain, ensuring transparency and preventing manipulation.
+✅ Smart Contract-Based Voting – The voting process is automated using Solidity smart contracts.
+✅ Immutable Records – Every vote is permanently stored on the blockchain, preventing any alterations.
+✅ Voting Time Control – Voting is only allowed within a predefined period, managed by the smart contract.
+✅ Single Vote Per User – A mapping mechanism ensures that each user can vote only once.
+✅ Real-Time Vote Counting – Users can check the vote count at any time.
+✅ Video Recording Before Voting – Ensures voter identity verification and prevents fake votes.
+
+
+
+
+
+
+This project demonstrates how blockchain combined with video verification can revolutionize e-voting systems by ensuring security, decentralization, and public trust. 🚀
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
